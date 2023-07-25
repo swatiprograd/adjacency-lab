@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 500px;
+}
+
+.form {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+}
